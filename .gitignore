@@ -3,3 +3,5 @@
 ################################################################################
 
 /AndroidProject/bin/Debug
+/AndroidProject/obj/Debug
+/packages
